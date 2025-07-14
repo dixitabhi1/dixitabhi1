@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 💫 About Me:
 👋 **Hi, I’m Abhishek Dixit (@dixitabhi1)**  <br>🌱 **Learning**  prompt engineering, LangChain + n8n memory/tools  & Open source API keys<br>🤖 **Working on** AI workflows using **n8n’s AI Agent nodes**—integrating LLMs, memory, tool-chaining, and webhooks <br>💞️ **Seeking** internships in AI automation  <br>🔧 **Open to collaborate on** chatbots, smart backend bots, podcast/blog automation, and AI pipeline integrations  Chain + n8n memory/tools, and CI/CD deployment  <br>
 
